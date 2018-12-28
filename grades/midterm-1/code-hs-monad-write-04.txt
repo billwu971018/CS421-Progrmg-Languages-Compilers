@@ -1,0 +1,5 @@
+code-hs-monad-write-04
+
+Incorrect pattern in function definition.(-5points)
+
+Total score:5/10

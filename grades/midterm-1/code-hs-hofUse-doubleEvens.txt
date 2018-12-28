@@ -1,0 +1,5 @@
+code-hs-hofUse-doubleEvens
+
+Good!
+
+Total score:10/10
