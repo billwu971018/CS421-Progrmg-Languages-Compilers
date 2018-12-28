@@ -1,5 +1,0 @@
-code-hs-functorWrite-05
-
-$a$ is a type variable not the contents, ie they are usually different(-3points)
-
-Total score:7/10

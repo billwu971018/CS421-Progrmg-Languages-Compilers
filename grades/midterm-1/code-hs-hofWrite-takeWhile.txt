@@ -1,5 +1,0 @@
-code-hs-hofWrite-takeWhile
-
-Incorrect.(-10points)
-
-Total score:0/10

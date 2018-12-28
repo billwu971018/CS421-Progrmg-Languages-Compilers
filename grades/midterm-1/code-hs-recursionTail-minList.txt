@@ -1,5 +1,0 @@
-code-hs-recursionTail-minList
-
-Good!
-
-Total score:10/10

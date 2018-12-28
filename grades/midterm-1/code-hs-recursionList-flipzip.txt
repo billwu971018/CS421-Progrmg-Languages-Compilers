@@ -1,5 +1,0 @@
-code-hs-recursionList-flipzip
-
-Good!
-
-Total score:10/10
